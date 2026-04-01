@@ -226,7 +226,7 @@ function startGame() {
                                 c.click = false
                                 c.draw()
                             })
-                        }, 500)
+                        }, 300)
 
                         gameState.selectedCard = null
                     }
